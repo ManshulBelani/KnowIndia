@@ -1,0 +1,18 @@
+<html>
+<body>
+ 
+
+<div id="google_translate_element" align="right" style="padding-top: 2px; padding-right : 2px;">
+           </div>
+          
+<script>
+function googleTranslateElementInit() 
+{
+new google.translate.TranslateElement({pageLanguage: 'en',layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+ }
+</script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
+</script>
+
+</body>
+</html>

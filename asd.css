@@ -1,0 +1,38 @@
+div.ex
+{
+width:220px;
+padding:10px;
+border:5px solid gray;
+margin:0px;
+}
+
+
+body
+
+h2
+{
+color: #FFFFFF;
+text-align:center;
+font-family:"Comic Sans MS"
+}
+h3
+{color: #FFFFFF;
+text-align:center;
+font-family:Georgia, "Times New Roman", Times, serif;
+}
+p
+{
+color:#FFFFFF;
+font-family:"Times New Roman";
+font-size:18px;
+margin-left:15px;
+}
+
+formDiv{
+
+	border:4px solid #000000;
+	padding-left:10px;
+
+
+}
+

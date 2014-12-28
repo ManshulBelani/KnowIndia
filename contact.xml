@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<members>
+<contact>
+    
+	<name>Sonal Gupta</name>
+    <occupation>Student</occupation>
+    <stream>B.Tech</stream>
+    <year>3rd year</year>
+    <branch>CSE</branch>
+	<rollno>09103519</rollno>
+
+</contact>    
+
+    <contact>
+	<name>Chetan Jain</name>
+    <occupation>Student</occupation>
+    <stream>B.Tech</stream>
+    <year>3rd year</year>
+    <branch>CSE</branch>
+	<rollno>09103515</rollno>
+    </contact>
+
+    <contact>
+	<name>Apurv Shrivastava</name>
+    <occupation>Student</occupation>
+    <stream>B.Tech</stream>
+    <year>3rd year</year>
+    <branch>CSE</branch>
+	<rollno>09103513</rollno>
+    </contact>
+
+    <contact>
+	<name>Manshul V Belani</name>
+    <occupation>Student</occupation>
+    <stream>B.Tech</stream>
+    <year>3rd year</year>
+    <branch>CSE</branch>
+	<rollno>09103499</rollno>
+	</contact>
+</members>
